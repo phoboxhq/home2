@@ -1,18 +1,15 @@
 ---
 layout: splash
-title: "PhoboxHQ"
+title: "Phobox"
 permalink: /
 header:
     overlay_color: "#5e616c"
     overlay_image: /assets/images/splash.png
-    caption: Some text here
-    cta_label: A label here
-    cta_url: http://google.de
+    cta_label: Download here
+    cta_url: /download/
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'Phobox is a free and open source software that allows you to automatically store your photos in your directory structure and gives you convenient access to mobile devices at home.'
 author_profile: false
 ---
 
 {% include feature_row id="intro" type="center" %}
-
-## Welcome
