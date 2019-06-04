@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: https://phoboxhq.github.io
   - title: "About"
-    url: https://phoboxhq.github.io/about/
+    url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
