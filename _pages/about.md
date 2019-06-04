@@ -4,7 +4,7 @@ excerpt: "Phobox is a small tool to extend your local picture storage with a bun
 modified: 2019-06-04T21:13:00-04:00
 ---
 
-# What is phobox?
+## What is phobox?
 Phobox is a small tool to extend your local picture storage with a bunch of connectivity features. 
 It starts a lightweight server process, which you allows to access your pictures over a graphical user interface
 or a REST-API. Moreover you can organize your files and create collections of the best photographs.
