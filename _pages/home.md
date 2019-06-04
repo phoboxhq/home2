@@ -4,7 +4,7 @@ title: "PhoboxHQ"
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: https://images.unsplash.com/photo-1491796014055-e6835cdcd4c6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2024&q=80
+  overlay_image: assets/images/splash.png
   cta_label: "<i class='fa fa-download'></i> Install Now"
   cta_url: "/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
