@@ -14,3 +14,17 @@ or a REST-API. Moreover you can organize your files and create collections of th
  - organize new pictures from camera to the correct directories
  - get a simple and fast access to the pictures on my smartphone at home
  - search for pictures
+
+## What is different to other systems?
+This application is niche product with a special use case. I concentrate to the following principles:
+* Phobox have to work with existing directories of photos
+* Phobox doesn't change the existing directory stucture of photos
+* Phobox has no cloud services -> your files are saved on your harddrive
+* Phobox provides a simple webinterface for accessing the photos on a webbrowser
+* Phobox provides a REST API for advanced usage cases
+* Phobox provides information of your photo storage
+
+## Background
+Phobox is born as a private project to be a lean solution to get a fast and easy access to my personal pictures at home on different devices. It should be a lightweight extention to an existing picture storage and can be used as simple picture organizer, too.
+
+After a couple of years of development and personal usage I decided to make this project public. Phobox solves the origin problems in my daily photo workflow. I think out there are persons with the same problems, too. Maybe you?!
