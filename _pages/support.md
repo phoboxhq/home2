@@ -5,11 +5,13 @@ excerpt: "You can support this project in many different way. Check out the poss
 modified: 2019-06-05T21:13:00-04:00
 ---
 
-* User support in case of problems
+_Under construction__
+
+### User support in case of problems
   * issue tracking system from github
   * wiki page or faq on website (maybe a collection?)
 
-* Supporting the project Phobox
+### Supporting the project Phobox
   * Why is support important?
   * What can I do?
     * with hands
