@@ -5,7 +5,7 @@ excerpt: "You can support this project in many different way. Check out the poss
 modified: 2019-06-05T21:13:00-04:00
 ---
 
-_Under construction__
+_Under construction_
 
 ### User support in case of problems
   * issue tracking system from github
