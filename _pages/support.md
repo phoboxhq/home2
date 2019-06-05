@@ -13,6 +13,10 @@ _Under construction_
 
 ### Supporting the project Phobox
   * Why is support important?
+    * starts as side project by one person, but should used by many
+    * the development and maintenance for one person is very time consuming
+    * many eyes see more
+    * a certain interest in this project increases motivation
   * What can I do?
     * with hands
       * report bugs
