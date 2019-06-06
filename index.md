@@ -8,7 +8,7 @@ header:
     cta_label: Download here
     cta_url: /download/
 intro: 
-  - excerpt: 'Phobox is a free and open source software that allows you to automatically store your photos in your directory structure and gives you convenient access to mobile devices at home.'
+  - excerpt: 'Phobox is a **free and open source** software that allows you to automatically **store your photos** in your directory structure and gives you **convenient access to mobile devices** at home.'
 author_profile: false
 ---
 
