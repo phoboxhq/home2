@@ -1,7 +1,19 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+title: "Edge Case: Nested and Mixed Lists"
+categories:
+  - Edge Case
+tags:
+  - content
+  - css
+  - edge case
+  - lists
+  - markup
 ---
+
+
+{% include base_path %}
+
+{% include toc title="Getting Started" %}
 
 # Welcome
 
