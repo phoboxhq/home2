@@ -10,9 +10,6 @@ tags:
   - markup
 ---
 
-
-{% include base_path %}
-
 {% include toc title="Getting Started" %}
 
 # Welcome
