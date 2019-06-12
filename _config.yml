@@ -110,7 +110,6 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Founder and core developer of Phobox"
   location         : "Germany"
-  email            : phoboxhq@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
