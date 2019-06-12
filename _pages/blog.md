@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /blog/
-title: "Posts by Year"
+title: "Inside PhoboxHQ"
 author_profile: true
 ---
 
