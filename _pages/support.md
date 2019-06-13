@@ -6,12 +6,10 @@ header:
     overlay_image: /assets/images/splash_support.png
 title: "Support Phobox"
 excerpt: "You can support this project in many different way. <br />Check out the possibilities."
-modified: 2019-06-05T21:13:00-04:00
+modified: 2019-06-13T21:13:00-04:00
 ---
 
-_Under construction_
-
-### User support in case of problems
+## User support in case of problems
 
 You have a problem the programm or something is not working? The following resources are your first choice.
 
@@ -19,18 +17,18 @@ You have a problem the programm or something is not working? The following resou
   * [wiki page](https://github.com/phoboxhq/phobox/wiki)
 
 
-### Supporting the project Phobox
+## Supporting the project Phobox
 
 You really like the project and you want to give something back or being a part of it?
 There are so many ways to help ... also without programming skills.
 
-#### Why is support important?
+### Why is support important?
   * Phobox starts as side project by one person, but should used by many
   * the development and maintenance for one person is very time consuming
   * many eyes see more
   * a certain interest in this project increases motivation
   
-#### What can I do?
+### What can I do?
   * **with my hands**
     * report bugs
     * report ideas or feature requests
