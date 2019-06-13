@@ -4,8 +4,8 @@ layout: splash
 header:
     overlay_color: "#5e616c"
     overlay_image: /assets/images/splash_about.png
-title: "What is a Phobox?"
-excerpt: "Phobox is a small tool to keep your photo storage clean and easy to use."
+title: "What is a \"Phobox\"?"
+excerpt: "It's a small tool to keep your photo storage clean and easy to use."
 modified: 2019-06-013T21:13:00-04:00
 ---
 
