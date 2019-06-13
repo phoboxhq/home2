@@ -37,4 +37,11 @@ Phobox is born as a private project to be a lean solution to get a fast and easy
 
 After a couple of years of development and personal usage I decided to make this project public. Phobox solves the origin problems in my daily photo workflow. I think out there are persons with the same problems, too. Maybe you?!
 
-[alt avatar of nick](/assets/images/nick_avatar.jpg)]
+<div style="text-align:center;">
+    <img src="/assets/images/nick_avatar.jpg" style="
+        max-height: 130px;
+        border-radius: 100px;
+        padding: 7px;
+        border: 1px solid #d8d7d7;">
+    <p style="font-size: 0.9em;color: #565656;">Nick</p>
+</div>
