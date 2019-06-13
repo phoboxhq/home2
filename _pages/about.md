@@ -15,6 +15,8 @@ or a REST-API. Moreover you can organize your files and create collections of th
  - get a simple and fast access to the pictures on my smartphone at home
  - search for pictures
 
+![alt phobox image gallery](assets/images/phobox_images.png)
+
 ## What is different to other systems?
 This application is niche product with a special use case. I concentrate to the following principles:
 * Phobox have to work with existing directories of photos
