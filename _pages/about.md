@@ -1,5 +1,9 @@
 ---
 permalink: /about/
+layout: splash
+header:
+    overlay_color: "#5e616c"
+    overlay_image: /assets/images/splash_about.png
 title: ""
 excerpt: "Phobox is a small tool to extend your local picture storage with a bunch of connectivity features."
 modified: 2019-06-04T21:13:00-04:00
