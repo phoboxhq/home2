@@ -36,3 +36,5 @@ This application is niche product with a special use case. I concentrate to the 
 Phobox is born as a private project to be a lean solution to get a fast and easy access to my personal pictures at home on different devices. It should be a lightweight extention to an existing picture storage and can be used as simple picture organizer, too.
 
 After a couple of years of development and personal usage I decided to make this project public. Phobox solves the origin problems in my daily photo workflow. I think out there are persons with the same problems, too. Maybe you?!
+
+[alt avatar of nick](/assets/images/nick_avatar.jpg)]
