@@ -37,4 +37,4 @@ Phobox is born as a private project to be a lean solution to get a fast and easy
 
 After a couple of years of development and personal usage I decided to make this project public. Phobox solves the origin problems in my daily photo workflow. I think out there are persons with the same problems, too. Maybe you?!
 
-[alt avatar of nick](/assets/images/nick_avatar.jpg)]
+![alt avatar of nick](/assets/images/nick_avatar.jpg)]
