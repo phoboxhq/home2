@@ -37,7 +37,6 @@ Phobox is born as a private project to be a lean solution to get a fast and easy
 
 After a couple of years of development and personal usage I decided to make this project public. Phobox solves the origin problems in my daily photo workflow. I think out there are persons with the same problems, too. Maybe you?!
 
-<<<<<<< HEAD
 <div style="text-align:center;">
     <img src="/assets/images/nick_avatar.jpg" style="
         max-height: 130px;
@@ -46,6 +45,3 @@ After a couple of years of development and personal usage I decided to make this
         border: 1px solid #d8d7d7;">
     <p style="font-size: 0.9em;color: #565656;">Nick</p>
 </div>
-=======
-![alt avatar of nick](/assets/images/nick_avatar.jpg)]
->>>>>>> 8c2874dd81aadd7431a0dcfd89f507bb2db9f47d
