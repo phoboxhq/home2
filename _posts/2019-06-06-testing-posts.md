@@ -1,19 +1,15 @@
 ---
-title: "Edge Case: Nested and Mixed Lists"
+title: "Phobox gets a homepage"
 categories:
-  - Edge Case
+  - news
 tags:
-  - content
-  - css
-  - edge case
-  - lists
-  - markup
+  - homepage
+  - jekyll
+  - phobox
+  - announcement
 ---
 
-{% include toc title="Getting Started" %}
+Currently phobox is a private project in my github repo. But I decide to open it to everyone and make it a fully open source software project. That's why I built this website. Also open source and with githubs static page generator jekyll.  
 
-# Welcome
+Well, but why publish the site first and than the programm? It's quite simple. I don't think anyone downloads a tool without knowing anything about it :-)
 
-**Hello world**, this is my first Jekyll blog post.
-
-I hope you like it!
