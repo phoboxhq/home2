@@ -12,10 +12,17 @@ modified: 2019-06-05T21:13:00-04:00
 _Under construction_
 
 ### User support in case of problems
+
+You have a problem the programm or something is not working? The following resources are your first choice.
+
   * [issue tracking system](https://github.com/phoboxhq/phobox/issues)
   * [wiki page](https://github.com/phoboxhq/phobox/wiki)
 
+
 ### Supporting the project Phobox
+
+You really like the project and you want to give something back or being a part of it?
+There are so many ways to help ... also without programming skills.
 
 #### Why is support important?
   * Phobox starts as side project by one person, but should used by many
@@ -24,13 +31,13 @@ _Under construction_
   * a certain interest in this project increases motivation
   
 #### What can I do?
-  * with hands
+  * **with my hands**
     * report bugs
     * report ideas or feature requests
     * translations (there are currently only English and German)
     * fix bugs and start pull requests
     * extend the FAQ/wiki for other users
     * recommend Phobox your friends
-  * with money
+  * **with my money**
     * use github sponsor
     * buy merchandise
