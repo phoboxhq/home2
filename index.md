@@ -15,15 +15,11 @@ feature_row:
     excerpt: "Define an import schema and put your new photos into the import directory. Phobox organizes the pictures to the correct target directory"
     url: "/"
     btn_label: "Learn More"
-  - image_path: /assets/images/splash.png
-    alt: "search"
-    title: "Browsing"
+  - title: "Browsing"
     excerpt: "Use the comfortable webpage to browse through your pictures, perhaps on the couch. Search fast for moments by using time information, TAGs or image names."
     url: "/"
     btn_label: "Learn More"
-  - image_path: /assets/images/splash.png
-    alt: "statistics"
-    title: "Get some stats"
+  - title: "Get some stats"
     excerpt: "Phobox provides a number of statistics of your storage. In which month did you take the most pictures and with which camera?"
     url: "/"
     btn_label: "Learn More"
