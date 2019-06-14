@@ -8,5 +8,6 @@ modified: 2019-06-06T21:13:00-04:00
 _Under construction_
 
 * Links to:
-  * Installer for Windows, Linux and maybe Mac
+  * Installer for Windows, Linux (.deb) and MacOS
   * Docker-Container
+  * plain jar
