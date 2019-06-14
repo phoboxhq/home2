@@ -9,5 +9,6 @@ tags:
   - announcement
 ---
 
-Currently I experimenting with different package implementations to create an installer for phobox for windows, linux and mac.
-As fulltime webdeveloper is completly new to distribute a java desktop application.
+I am currently experimenting with various package implementations to create an installer for Phobox for Windows, Linux and Mac. 
+
+As a full-time web developer, it's completely new for me to distribute a Java desktop application :-)
