@@ -35,3 +35,5 @@ author_profile: false
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+![alt phobox image gallery](/assets/images/phobox_images.png)
