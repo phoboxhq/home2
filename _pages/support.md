@@ -5,7 +5,7 @@ header:
     overlay_color: "#5e616c"
     overlay_image: /assets/images/splash_support.png
 title: "Support Phobox"
-excerpt: "You can support this project in many different way. <br />Check out the possibilities."
+excerpt: "You can support this project in many different ways. <br />Check out the possibilities."
 modified: 2019-06-13T21:13:00-04:00
 ---
 
