@@ -11,9 +11,7 @@ excerpt: Makes your photo storage smarter
 intro: 
   - excerpt: 'Phobox is a **free and open source** software that allows you to automatically **store your photos** in your directory structure and gives you **convenient access to mobile devices** at home.'
 feature_row:
-  - image_path: /assets/images/splash.png
-    alt: "organization"
-    title: "Automatic import"
+  - title: "Automatic import"
     excerpt: "Define an import schema and put your new photos into the import directory. Phobox organizes the pictures to the correct target directory"
     url: "/"
     btn_label: "Learn More"
