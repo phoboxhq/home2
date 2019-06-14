@@ -27,7 +27,7 @@ This application is niche product with a special use case. I concentrate to the 
 * Phobox doesn't change the existing directory stucture of photos
 * Phobox has no cloud services -> your files are saved on your harddrive
 * Phobox provides a simple webinterface for accessing the photos on a webbrowser
-* Phobox provides a REST API for advanced usage cases
+* Phobox provides a REST API for advanced use cases
 * Phobox provides information of your photo storage
 
 [![alt phobox image lightbox](/assets/images/phobox_lightbox.png)](/assets/images/phobox_lightbox.png)
