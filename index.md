@@ -26,7 +26,7 @@ feature_row:
   - image_path: /assets/images/splash.png
     alt: "statistics"
     title: "Get some stats"
-    excerpt: "Phobox provides a number of statistics for your memory. In which month did you take the most pictures and with which camera?"
+    excerpt: "Phobox provides a number of statistics of your storage. In which month did you take the most pictures and with which camera?"
     url: "/"
     btn_label: "Learn More"
 author_profile: false
