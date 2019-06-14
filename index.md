@@ -19,8 +19,8 @@ feature_row:
     btn_label: "Learn More"
   - image_path: /assets/images/splash.png
     alt: "search"
-    title: "Browse your images"
-    excerpt: "Use the comfortable webpage to browse thru your pictures. Search fast for moments by using time information, TAGs or image names."
+    title: "Browsing"
+    excerpt: "Use the comfortable webpage to browse through your pictures, perhaps on the couch. Search fast for moments by using time information, TAGs or image names."
     url: "/"
     btn_label: "Learn More"
   - image_path: /assets/images/splash.png
