@@ -1,6 +1,5 @@
 ---
 permalink: /faq/
-layout: simple
 title: "Frequently ask questions"
 modified: 2019-06-18T21:13:00-04:00
 ---
