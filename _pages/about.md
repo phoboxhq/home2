@@ -53,6 +53,9 @@ in the file explorer.
 
 All existing solutions doesn't fit my requirements or being expensive. So I begun to build a solution to myself and Phobox was born. After a couple of years of development and personal usage I decided to make this project public. Phobox solves the origin problems in my daily photo workflow. I think out there are persons with the same problems, too. Maybe you?!
 
+Phobox is a very special project for me and I will never want to do without it again. But currently the development is completely
+in my spare time. If you like phobox and you want to support me, please [look here](/support/).
+
 <div style="text-align:center;">
     <img src="/assets/images/nick_avatar.jpg" style="
         max-height: 130px;
