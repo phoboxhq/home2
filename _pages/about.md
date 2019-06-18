@@ -17,7 +17,7 @@ or a REST-API. Moreover you can organize your files and create collections of th
 **I developed phobox to solve three main problems in my picture workflow:**
  - organize new pictures from camera to the correct directories
  - get a simple and fast access to the pictures on my smartphone at home
- - search for pictures
+ - searching pictures by time, name, camera type ....
 
 [![alt phobox image gallery](/assets/images/phobox_images.png)](/assets/images/phobox_images.png)
 
@@ -25,6 +25,7 @@ or a REST-API. Moreover you can organize your files and create collections of th
 This application is niche product with a special use case. I concentrate to the following principles:
 * Phobox have to work with existing directories of photos
 * Phobox doesn't change the existing directory stucture of photos
+* Phobox doesn't save pictures in closed databases
 * Phobox has no cloud services -> your files are saved on your harddrive
 * Phobox provides a simple webinterface for accessing the photos on a webbrowser
 * Phobox provides a REST API for advanced use cases
@@ -32,10 +33,25 @@ This application is niche product with a special use case. I concentrate to the 
 
 [![alt phobox image lightbox](/assets/images/phobox_lightbox.png)](/assets/images/phobox_lightbox.png)
 
-## Background
-Phobox is born as a private project to be a lean solution to get a fast and easy access to my personal pictures at home on different devices. It should be a lightweight extention to an existing picture storage and can be used as simple picture organizer, too.
+## What is the use case for phobox?
+* You want to keep your existing image directories
+* You don't want to pay for a tool
+* You want organize your photos in a mobile device too
+* You want a simple process to bring your photos from your camera to your storage
+* You want to keep your pictures locally and not in the cloud
+* You want to search for taken images in a simple and fast way
 
-After a couple of years of development and personal usage I decided to make this project public. Phobox solves the origin problems in my daily photo workflow. I think out there are persons with the same problems, too. Maybe you?!
+## What is phobox not for?
+* If you already organize your photos in lightroom or another paid tool you will not need another one.
+* If you want to do image editing (better use Gimp, Photoshop, Snapseed, Luminar or Lightroom)
+* If you want to organize scanned photos or almost very old pictures (no exif data)
+
+## Background
+I build phobox to solve a problem which I have with all existing tools. I want to keep my photos on my network storage
+to access them in my local wifi with my tablet in the couch. Moreover it should be possible to browse the files on computer 
+in the file explorer.
+
+All existing solutions doesn't fit my requirements or being expensive. So I begun to build a solution to myself and Phobox was born. After a couple of years of development and personal usage I decided to make this project public. Phobox solves the origin problems in my daily photo workflow. I think out there are persons with the same problems, too. Maybe you?!
 
 <div style="text-align:center;">
     <img src="/assets/images/nick_avatar.jpg" style="
