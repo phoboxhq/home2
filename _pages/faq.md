@@ -4,7 +4,7 @@ title: "Frequently ask questions"
 modified: 2019-06-18T21:13:00-04:00
 ---
 
-_This Page is under construction_
+_This page is under construction_
 
 ## Errors on ubuntu with openJDK
 
