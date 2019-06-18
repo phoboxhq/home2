@@ -6,7 +6,7 @@ header:
     overlay_image: /assets/images/splash_support.png
 title: "Support Phobox"
 excerpt: "You can support this project in many different ways. <br />Check out the possibilities."
-modified: 2019-06-13T21:13:00-04:00
+modified: 2019-06-18T21:13:00-04:00
 ---
 
 ## User support in case of problems
@@ -15,6 +15,7 @@ You have a problem with the programm or something is not working? The following 
 
   * [issue tracking system](https://github.com/phoboxhq/phobox/issues)
   * [wiki page](https://github.com/phoboxhq/phobox/wiki)
+  * [FAQ](/faq/)
 
 
 ## Supporting the project Phobox
