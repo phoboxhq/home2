@@ -11,3 +11,5 @@ _Under construction_
   * Installer for Windows, Linux (.deb) and MacOS
   * Docker-Container
   * plain jar
+
+For more guidance use the [getting started guide](/getting-started).
