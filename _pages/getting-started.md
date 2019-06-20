@@ -1,5 +1,6 @@
 ---
 permalink: /getting-started/
+layout: splash
 title: "Getting started"
 modified: 2019-06-18T21:13:00-04:00
 ---
