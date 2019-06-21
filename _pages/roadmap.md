@@ -9,18 +9,18 @@ _This page is under construction_
 
 ## Release 1.0.0
 
- * publish an usable state for windows, linux and mac
+Planned for summer 2019
+ * publish a usable state for windows, linux and mac
  * contains the main core features
-  * automatic import of pictures
-  * browsing pictures on mobile devices
-  * searching for pictures
-
+   * automatic import of pictures
+   * browsing pictures on mobile devices
+   * searching for pictures
 
 ## Release 1.1.0
 
  * usability: 
-  * upload pictures in directory view
-  * move directory and items via drag and drop
+   * upload pictures in directory view
+   * move directory and items via drag and drop
  * show EXIF data
  * more statistic features
  * bugfixes
