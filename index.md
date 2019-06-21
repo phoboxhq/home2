@@ -26,7 +26,7 @@ feature_row:
 row2:
   - title: "Getting started"
     excerpt: "You're interested, then read here how you set up and use Phobox first."
-    url: "/getting-stared"
+    url: "/getting-started"
     btn_label: "Learn More"
   - title: "Roadmap"
     excerpt: "Here you can find out more about the next planned releases and which features you can look forward to."
