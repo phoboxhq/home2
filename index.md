@@ -23,7 +23,7 @@ feature_row:
     excerpt: "Phobox provides a number of statistics of your storage. In which month did you take the most pictures and with which camera?"
     url: "/"
     btn_label: "Learn More"
-feature_row2:
+row2:
   - title: "Automatic import"
     excerpt: "Define an import schema and put your new photos into the import directory. Phobox organizes the pictures to the correct target directory"
     url: "/"
@@ -45,4 +45,4 @@ author_profile: false
 
 ![alt phobox image gallery](/assets/images/phobox_images.png)
 
-{% include feature_row2 %}
+{% include feature_row id="row2" %}
