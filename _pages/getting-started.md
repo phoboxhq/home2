@@ -4,7 +4,7 @@ layout: splash
 header:
     overlay_image: /assets/images/splash_getting-started.png
 title: "Getting started"
-modified: 2019-06-23T21:13:00-04:00
+modified: 2019-06-23T17:13:00-04:00
 ---
 
 _This page is under construction_
