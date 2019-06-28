@@ -13,16 +13,10 @@ intro:
 feature_row:
   - title: "Automatic import"
     excerpt: "Define an import schema and put your new photos into the import directory. Phobox organizes the pictures to the correct target directory"
-    url: "/"
-    btn_label: "Learn More"
   - title: "Browsing"
     excerpt: "Use the comfortable webpage to browse through your pictures, perhaps on the couch. Search fast for moments by using time information, TAGs or image names."
-    url: "/"
-    btn_label: "Learn More"
   - title: "Get some stats"
     excerpt: "Phobox provides a number of statistics of your storage. In which month did you take the most pictures and with which camera?"
-    url: "/"
-    btn_label: "Learn More"
 row2:
   - title: "Getting started"
     excerpt: "You're interested, then read here how you set up and use Phobox first."
