@@ -19,7 +19,7 @@ You can download Phobox in different packages. Choose the one that best suits yo
   * *.deb-Package for debian-based distributions
   * includes an openJDK 11 and it's easy to install
   
-* [Download](https://github.com/phoboxhq/phobox/releases/download/v1.0.0/phobox-server-1.0.0.jar)
+* [Download as jar](https://github.com/phoboxhq/phobox/releases/download/v1.0.0/phobox-server-1.0.0.jar)
   * Phobox as plain jar-file
   * usable for all OS' which can run java
   * You need to have installed a JDK 8 or higher
