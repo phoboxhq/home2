@@ -5,7 +5,7 @@ header:
     overlay_color: "#5e616c"
     overlay_image: /assets/images/splash_download.png
 title: "Download Phobox for free"
-excerpt: "Download and run Phobox on your local machine an rule them all."
+excerpt: "Download and run Phobox on your local machine"
 modified: 2019-06-06T21:13:00-04:00
 ---
 
