@@ -40,3 +40,6 @@ author_profile: false
 ![alt phobox image gallery](/assets/images/phobox_images.png)
 
 {% include feature_row id="row2" %}
+
+[![alt phobox raspberry_own_cloud](/assets/images/phobox_raspberry.jpg)](https://github.com/phoboxhq/phobox/wiki/Phobox-on-a-Raspberry-Pi)
+
