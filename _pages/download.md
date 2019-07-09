@@ -24,4 +24,8 @@ You can download Phobox in different packages. Choose the one that best suits yo
   * usable for all OS' which can run java
   * You need to have installed a JDK 8 or higher
   
+* [Installation script for Raspberry Pi](https://github.com/phoboxhq/phobox-packaging/raw/master/phobox-on-raspberry-pi.sh)
+  * Installs java for the raspberry and downloads the latest phobox version
+  * Here you can find the [complete guide](https://github.com/phoboxhq/phobox/wiki/Phobox-on-a-Raspberry-Pi#installation)
+  
 For more guidance after the installation use the [getting started guide](/getting-started).
