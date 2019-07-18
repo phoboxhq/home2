@@ -27,5 +27,7 @@ You can download Phobox in different packages. Choose the one that best suits yo
 * [Installation script for Raspberry Pi](https://github.com/phoboxhq/phobox-packaging/raw/master/phobox-on-raspberry-pi.sh)
   * Installs java for the raspberry and downloads the latest phobox version
   * Here you can find the [complete guide](https://github.com/phoboxhq/phobox/wiki/Phobox-on-a-Raspberry-Pi#installation)
-  
+
+* [Docker image](https://hub.docker.com/r/milchreis/phobox)
+
 For more guidance after the installation use the [getting started guide](/getting-started).
