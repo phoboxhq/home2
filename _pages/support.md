@@ -14,8 +14,7 @@ modified: 2019-06-18T21:13:00-04:00
 You have a problem with the programm or something is not working? The following resources are your first choice.
 
   * [issue tracking system](https://github.com/phoboxhq/phobox/issues)
-  * [wiki page](https://github.com/phoboxhq/phobox/wiki)
-  * [FAQ](/faq/)
+  * [wiki page & FAQ](https://github.com/phoboxhq/phobox/wiki)
 
 
 ## Supporting the project Phobox
