@@ -17,6 +17,9 @@ The following roadmap shows the plan for the upcoming releases. It's not a promi
    * browsing pictures on mobile devices
    * searching for pictures
 
+[Open changelog for v1.0.0](https://github.com/phoboxhq/phobox/releases/tag/v1.0.0)
+
+
 ## Release 1.1.0
 
 Planned for winter 2019
