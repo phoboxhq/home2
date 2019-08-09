@@ -25,11 +25,12 @@ create your own photos to create a demo version. To start a demo application, fo
  * Open [Play with docker](https://labs.play-with-docker.com/) in browser and login
  * Create a new node with pressing "add new instance"
  * Copy the following code and paste it into the Play-with-Docker commandline
- 	 * `docker pull milchreis/phobox:demo && docker run -p 8080:8080 milchreis/phobox:demo`
- 	 * these step could take 1 minutes for starting up the phobox instance
+   * `docker pull milchreis/phobox:demo && docker run -p 8080:8080 milchreis/phobox:demo`
+   * these step could take 1 minutes for starting up the phobox instance
  * Open the phobox by pressing on the "8080" batch in the upper menu.
 
 [Watch the video](https://github.com/phoboxhq/phoboxhq.github.io/raw/master/assets/play-with-docker-example_2.mp4)
+<iframe width="420" height="315" src="https://github.com/phoboxhq/phoboxhq.github.io/raw/master/assets/play-with-docker-example_2.mp4" frameborder="0" allowfullscreen></iframe>
 
 ### Using phobox
 Now you can try all features of phobox. The system runs dedicated for you for the next 4h. Upload or delete pictures or try out what
