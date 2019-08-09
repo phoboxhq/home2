@@ -11,8 +11,6 @@ tags:
   - photo storage
 ---
 
-# Try Phobox in less than five minutes
-
 Interested in a smarter photo store? But you don't have time or knowledge to set it up?
 In this article, I'll show you an easy way to start a Phobox in less than 5 minutes without installing it.
 
