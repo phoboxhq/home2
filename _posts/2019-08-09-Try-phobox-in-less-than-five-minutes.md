@@ -29,8 +29,10 @@ create your own photos to create a demo version. To start a demo application, fo
    * these step could take 1 minutes for starting up the phobox instance
  * Open the phobox by pressing on the "8080" batch in the upper menu.
 
-[Watch the video](https://github.com/phoboxhq/phoboxhq.github.io/raw/master/assets/play-with-docker-example_2.mp4)
-<iframe width="420" height="315" src="https://github.com/phoboxhq/phoboxhq.github.io/raw/master/assets/play-with-docker-example_2.mp4" frameborder="0" allowfullscreen></iframe>
+<video width="320" height="240" controls>
+  <source src="https://github.com/phoboxhq/phoboxhq.github.io/raw/master/assets/play-with-docker-example_2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Using phobox
 Now you can try all features of phobox. The system runs dedicated for you for the next 4h. Upload or delete pictures or try out what
