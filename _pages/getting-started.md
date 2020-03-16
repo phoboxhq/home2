@@ -46,4 +46,4 @@ usage: phobox
 ## Configuration
  * To change your settings, you can open the settings page in the webinterface or use the .phobox.properties file in your home directory
  * You can change this setting in this file as well, but the phobox has to restart after this change
- * For more configuration information [look here](https://github.com/phoboxhq/phobox/wiki/Configuration)
+ * For more configuration information [look here](https://github.com/phoboxhq/phobox/wiki/Configuration-files)
